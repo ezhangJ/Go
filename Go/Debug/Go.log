@@ -1,0 +1,7 @@
+﻿  StudentWorld.cpp
+c:\users\eric zhang\desktop\projects\go\go\studentworld.cpp(73): warning C4018: '<': signed/unsigned mismatch
+c:\users\eric zhang\desktop\projects\go\go\studentworld.cpp(183): warning C4018: '<': signed/unsigned mismatch
+c:\users\eric zhang\desktop\projects\go\go\studentworld.cpp(185): warning C4018: '<': signed/unsigned mismatch
+c:\users\eric zhang\desktop\projects\go\go\studentworld.cpp(206): warning C4018: '<': signed/unsigned mismatch
+  Go.vcxproj -> C:\Users\Eric Zhang\Desktop\Projects\Go\Debug\Go.exe
+  Go.vcxproj -> C:\Users\Eric Zhang\Desktop\Projects\Go\Debug\Go.pdb (Partial PDB)
